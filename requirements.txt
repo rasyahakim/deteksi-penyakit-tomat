@@ -8,3 +8,8 @@ matplotlib==3.7.1
 pandas==2.2.1
 numpy==1.24.4
 Pillow==9.5.0
+
+# Fix untuk dependency error
+rich==13.7.1
+markdown-it-py==2.2.0
+Pygments==2.15.1
