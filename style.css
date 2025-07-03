@@ -1,0 +1,26 @@
+/* style.css */
+body {
+    background-color: #fff0f5;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.sidebar .sidebar-content {
+    background-color: #fff0f5 !important;
+}
+
+h1, h2, h3 {
+    color: #3b3b3b;
+}
+
+.sidebar-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #cc3366;
+    margin-bottom: 20px;
+}
+
+.section-title {
+    color: #cc3366;
+    font-size: 22px;
+    margin-top: 20px;
+}
