@@ -1,6 +1,6 @@
 [theme]
 primaryColor = "#b22222"               # firebrick (merah matang)
-backgroundColor = "#ffffff"           # putih bersih
-secondaryBackgroundColor = "#cbe6b6"   # hijau muda lebih pekat
+backgroundColor = "#cbe6b6"           # putih bersih
+secondaryBackgroundColor = "#85c799"   # hijau muda lebih pekat
 textColor = "#2e2e2e"                 # abu tua, kontras
 font = "sans serif"
