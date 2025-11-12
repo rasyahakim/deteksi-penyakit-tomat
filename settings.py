@@ -19,7 +19,7 @@ DEFAULT_DETECT_IMAGE = IMAGES_DIR / 'tomat22.jpg'
 
 # Model
 MODEL_DIR = ROOT / 'weights'
-DETECTION_MODEL = MODEL_DIR / 'newbest.pt'
+DETECTION_MODEL = MODEL_DIR / 'besttomatnew.pt'
 
 # Webcam
 WEBCAM_PATH = 0
